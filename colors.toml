@@ -1,0 +1,38 @@
+# Blackshield: Black Steel with a crimson edge. Iron, parchment, blood.
+# Do not add .lua or terminal configs here: a theme installed from git has those stripped.
+
+mode = "dark"
+
+accent = "#c1121f"
+selection = "#3a1518"
+muted = "#8a8f98"
+
+background = "#101014"
+dark_background = "#0c0c10"
+darker_background = "#070709"
+lighter_background = "#1a1a20"
+
+foreground = "#d8d3c8"
+dark_foreground = "#8a8f98"
+light_foreground = "#e8e4db"
+bright_foreground = "#f5f1e8"
+
+# Solid blood. A gradient here reads as synthwave, which this livery is not.
+hyprland_active_border = "rgba(c1121fee)"
+hyprland_inactive_border = "rgba(8f959c66)"
+
+red = "#e04848"
+yellow = "#c9a227"
+orange = "#f05a5c"
+green = "#6a994e"
+cyan = "#4e8f8b"
+blue = "#5b7fa6"
+magenta = "#b8609c"
+brown = "#8f741b"
+
+bright_red = "#f05a5c"
+bright_yellow = "#e3c558"
+bright_green = "#8fbf6f"
+bright_cyan = "#74b8b4"
+bright_blue = "#7fa3cc"
+bright_magenta = "#c47aa8"

@@ -94,13 +94,13 @@ Pick one method.
 **1. Omarchy's installer (recommended)**
 
 ```bash
-omarchy-theme-install https://github.com/synthalorian/omarchy-blackshield-theme
+omarchy-theme-install https://github.com/Blackshield-Company/omarchy-blackshield-theme
 ```
 
 **2. Git clone into the themes folder**
 
 ```bash
-git clone https://github.com/synthalorian/omarchy-blackshield-theme ~/.config/omarchy/themes/blackshield
+git clone https://github.com/Blackshield-Company/omarchy-blackshield-theme ~/.config/omarchy/themes/blackshield
 omarchy-theme-set blackshield
 ```
 
